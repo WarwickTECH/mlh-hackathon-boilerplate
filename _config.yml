@@ -6,7 +6,7 @@
 baseurl: ""
 
 # If you're using GitHub pages without custom domain, this is "[github_username].github.io". Prepend with "http://"
-url: "https://mlh.github.io/mlh-hackathon-boilerplate"
+url: "https://bih.github.io/mlh-hackathon-boilerplate"
 
 # The ability to use custom themes.
 style:
@@ -14,24 +14,24 @@ style:
 
 # This will help you track who's visiting your website.
 tracking:
-  google_analytics: "UA-43729070-14"
+  google_analytics: ""
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: "HackTheChickenWings"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "Hack the Chicken Wings | 1 January 2017"
+  description: "This is a Hack The Chicken Wings, get ready."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  name:        "Hack the Chicken Wings"
+  description: "This is Chicken Wings. Are you ready? Get rekt."
+  date:        "1 January 2017"
+  location:    "Eindhoven, NL"
 
   trust_badge:
     year:   "2017"  # season year
@@ -42,14 +42,16 @@ event:
     links:
       - text: "Apply"
         my_mlh:
-          client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
-          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+          client_id:    "df2dfe4e8ba6ad87dd0ec2b2be61b04babeb1b85735f38ae5fcf12f3bcc2c7b2"
+          redirect_uri: "https://bih.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
-        href: "mailto:sponsorship@website.com"
+        href: "mailto:sponsorship@hackthechickenwings.com"
+      - text: "Google"
+        href: "http://google.com"
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
+      Hack the Chicken Wings is a hackathon.
       This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
       Keep it straightforward, don't make it too long.
 
@@ -59,7 +61,7 @@ event:
       - image: "images/image1.png"
         title: "LEARN."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Chicken.
       - image: "images/image2.png"
         title: "BUILD."
         description: >
@@ -96,7 +98,7 @@ event:
   # This is the message you'll receive once you've registered.
   register:
     message: >
-      You'll receive more information closer to the hackathon.
+      You'll receive more wings closer to the hackathon.
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
